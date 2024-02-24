@@ -25,8 +25,7 @@ const Matrix = () => {
     updateColumns(); // Initial update
 
     const leetCodeProblemsUrl =
-      "http://" + window.location.host + "/leetcode-problems.json";
-    console.log("leetCodeProblemsUrl", leetCodeProblemsUrl);
+      "https://romankurnovskii.com/leetcode-problems.json";
     fetch(leetCodeProblemsUrl)
       .then((response) => response.json())
       .then((data) => setLeetcodeProblems(data))
@@ -113,5 +112,5 @@ const App = () => {
 };
 
 const container = document.getElementById(divRender);
-const root = createRoot(container); // Ensure your HTML has a div with the id 'root'
+const root = createRoot(container);
 root.render(<App />);
