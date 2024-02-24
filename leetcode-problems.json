@@ -1,9 +1,149 @@
 {
+  "2190": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2190/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2190/"
+    }
+  },
+  "1700": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1700/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1700/"
+    }
+  },
+  "1232": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1232/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1232/"
+    }
+  },
+  "1165": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1165/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1165/"
+    }
+  },
+  "1180": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1180/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1180/"
+    }
+  },
+  "1491": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1491/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1491/"
+    }
+  },
+  "1470": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1470/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1470/"
+    }
+  },
+  "1295": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1295/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1295/"
+    }
+  },
+  "1122": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1122/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1122/"
+    }
+  },
+  "2032": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2032/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2032/"
+    }
+  },
+  "1374": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1374/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1374/"
+    }
+  },
+  "2085": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2085/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2085/"
+    }
+  },
+  "1221": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1221/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1221/"
+    }
+  },
+  "1281": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1281/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1281/"
+    }
+  },
+  "1646": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1646/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1646/"
+    }
+  },
+  "2164": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2164/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2164/"
+    }
+  },
+  "2351": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2351/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2351/"
+    }
+  },
   "69": {
     "difficulty": "Easy",
     "languages": {
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/69/",
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/69/"
+    }
+  },
+  "2399": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2399/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2399/"
+    }
+  },
+  "1128": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1128/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1128/"
+    }
+  },
+  "1720": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1720/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1720/"
     }
   },
   "283": {
@@ -13,11 +153,151 @@
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/283/"
     }
   },
+  "1652": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1652/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1652/"
+    }
+  },
+  "1619": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1619/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1619/"
+    }
+  },
+  "1812": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1812/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1812/"
+    }
+  },
+  "1941": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1941/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1941/"
+    }
+  },
+  "1961": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1961/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1961/"
+    }
+  },
   "2215": {
     "difficulty": "Easy",
     "languages": {
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2215/",
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2215/"
+    }
+  },
+  "1317": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1317/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1317/"
+    }
+  },
+  "1332": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1332/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1332/"
+    }
+  },
+  "1175": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1175/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1175/"
+    }
+  },
+  "2383": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2383/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2383/"
+    }
+  },
+  "1748": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1748/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1748/"
+    }
+  },
+  "1614": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1614/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1614/"
+    }
+  },
+  "1566": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1566/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1566/"
+    }
+  },
+  "2239": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2239/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2239/"
+    }
+  },
+  "1796": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1796/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1796/"
+    }
+  },
+  "1636": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1636/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1636/"
+    }
+  },
+  "2255": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2255/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2255/"
+    }
+  },
+  "1475": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1475/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1475/"
+    }
+  },
+  "1933": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1933/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1933/"
+    }
+  },
+  "1243": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1243/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1243/"
+    }
+  },
+  "2027": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2027/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2027/"
     }
   },
   "392": {
@@ -27,11 +307,39 @@
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/392/"
     }
   },
+  "1708": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1708/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1708/"
+    }
+  },
+  "1228": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1228/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1228/"
+    }
+  },
   "389": {
     "difficulty": "Easy",
     "languages": {
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/389/",
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/389/"
+    }
+  },
+  "1974": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1974/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1974/"
+    }
+  },
+  "1422": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1422/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1422/"
     }
   },
   "1768": {
@@ -41,11 +349,123 @@
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1768/"
     }
   },
+  "2259": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2259/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2259/"
+    }
+  },
+  "1408": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1408/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1408/"
+    }
+  },
+  "2220": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2220/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2220/"
+    }
+  },
+  "1346": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1346/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1346/"
+    }
+  },
   "724": {
     "difficulty": "Easy",
     "languages": {
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/724/",
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/724/"
+    }
+  },
+  "1523": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1523/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1523/"
+    }
+  },
+  "1742": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1742/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1742/"
+    }
+  },
+  "1108": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1108/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1108/"
+    }
+  },
+  "1496": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1496/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1496/"
+    }
+  },
+  "1051": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1051/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1051/"
+    }
+  },
+  "1945": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1945/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1945/"
+    }
+  },
+  "1213": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1213/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1213/"
+    }
+  },
+  "1967": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1967/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1967/"
+    }
+  },
+  "2389": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2389/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2389/"
+    }
+  },
+  "1757": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1757/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1757/"
+    }
+  },
+  "2248": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2248/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2248/"
+    }
+  },
+  "1637": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1637/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1637/"
     }
   },
   "13": {
@@ -62,11 +482,130 @@
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1207/"
     }
   },
+  "1773": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1773/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1773/"
+    }
+  },
+  "2011": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2011/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2011/"
+    }
+  },
+  "1365": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1365/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1365/"
+    }
+  },
+  "1971": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1971/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1971/"
+    }
+  },
+  "1758": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1758/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1758/"
+    }
+  },
+  "2047": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2047/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2047/"
+    }
+  },
+  "1196": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1196/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1196/"
+    }
+  },
+  "1752": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1752/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1752/"
+    }
+  },
+  "1572": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1572/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1572/"
+    }
+  },
+  "2331": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2331/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2331/"
+    }
+  },
   "9": {
     "difficulty": "Easy",
     "languages": {
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/9/",
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/9/"
+    }
+  },
+  "1952": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1952/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1952/"
+    }
+  },
+  "1331": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1331/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1331/"
+    }
+  },
+  "1299": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1299/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1299/"
+    }
+  },
+  "1184": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1184/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1184/"
+    }
+  },
+  "2103": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2103/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2103/"
+    }
+  },
+  "2129": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2129/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2129/"
+    }
+  },
+  "1379": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1379/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1379/"
     }
   },
   "21": {
@@ -76,11 +615,60 @@
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/21/"
     }
   },
+  "1736": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1736/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1736/"
+    }
+  },
+  "1252": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1252/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1252/"
+    }
+  },
+  "2057": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2057/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2057/"
+    }
+  },
   "66": {
     "difficulty": "Easy",
     "languages": {
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/66/",
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/66/"
+    }
+  },
+  "2016": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2016/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2016/"
+    }
+  },
+  "1539": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1539/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1539/"
+    }
+  },
+  "1603": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1603/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1603/"
+    }
+  },
+  "2206": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2206/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2206/"
     }
   },
   "234": {
@@ -90,11 +678,60 @@
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/234/"
     }
   },
+  "1436": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1436/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1436/"
+    }
+  },
+  "1337": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1337/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1337/"
+    }
+  },
+  "1137": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1137/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1137/"
+    }
+  },
+  "2169": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2169/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2169/"
+    }
+  },
+  "1822": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1822/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1822/"
+    }
+  },
   "104": {
     "difficulty": "Easy",
     "languages": {
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/104/",
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/104/"
+    }
+  },
+  "1668": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1668/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1668/"
+    }
+  },
+  "1662": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1662/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1662/"
     }
   },
   "206": {
@@ -104,11 +741,165 @@
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/206/"
     }
   },
+  "1518": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1518/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1518/"
+    }
+  },
+  "1304": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1304/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1304/"
+    }
+  },
+  "1133": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1133/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1133/"
+    }
+  },
+  "1099": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1099/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1099/"
+    }
+  },
+  "2160": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2160/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2160/"
+    }
+  },
   "605": {
     "difficulty": "Easy",
     "languages": {
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/605/",
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/605/"
+    }
+  },
+  "1474": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1474/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1474/"
+    }
+  },
+  "1064": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1064/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1064/"
+    }
+  },
+  "2200": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2200/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2200/"
+    }
+  },
+  "1763": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1763/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1763/"
+    }
+  },
+  "2418": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2418/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2418/"
+    }
+  },
+  "1935": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1935/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1935/"
+    }
+  },
+  "2283": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2283/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2283/"
+    }
+  },
+  "2347": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2347/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2347/"
+    }
+  },
+  "1688": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1688/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1688/"
+    }
+  },
+  "2108": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2108/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2108/"
+    }
+  },
+  "1560": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1560/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1560/"
+    }
+  },
+  "2335": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2335/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2335/"
+    }
+  },
+  "1275": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1275/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1275/"
+    }
+  },
+  "1716": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1716/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1716/"
+    }
+  },
+  "1684": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1684/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1684/"
+    }
+  },
+  "2062": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2062/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2062/"
+    }
+  },
+  "1576": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1576/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1576/"
     }
   },
   "643": {
@@ -125,6 +916,104 @@
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/94/"
     }
   },
+  "1217": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1217/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1217/"
+    }
+  },
+  "1791": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1791/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1791/"
+    }
+  },
+  "1351": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1351/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1351/"
+    }
+  },
+  "1629": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1629/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1629/"
+    }
+  },
+  "1991": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1991/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1991/"
+    }
+  },
+  "2235": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2235/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2235/"
+    }
+  },
+  "1200": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1200/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1200/"
+    }
+  },
+  "2409": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2409/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2409/"
+    }
+  },
+  "1678": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1678/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1678/"
+    }
+  },
+  "1800": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1800/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1800/"
+    }
+  },
+  "1385": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1385/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1385/"
+    }
+  },
+  "1065": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1065/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1065/"
+    }
+  },
+  "1588": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1588/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1588/"
+    }
+  },
+  "1640": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1640/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1640/"
+    }
+  },
   "88": {
     "difficulty": "Easy",
     "languages": {
@@ -132,11 +1021,46 @@
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/88/"
     }
   },
+  "1805": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1805/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1805/"
+    }
+  },
+  "2413": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2413/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2413/"
+    }
+  },
+  "2053": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2053/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2053/"
+    }
+  },
   "1732": {
     "difficulty": "Easy",
     "languages": {
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1732/",
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1732/"
+    }
+  },
+  "1528": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1528/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1528/"
+    }
+  },
+  "1656": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1656/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1656/"
     }
   },
   "345": {
@@ -153,11 +1077,60 @@
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/933/"
     }
   },
+  "1608": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1608/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1608/"
+    }
+  },
+  "1957": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1957/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1957/"
+    }
+  },
+  "1189": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1189/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1189/"
+    }
+  },
   "141": {
     "difficulty": "Easy",
     "languages": {
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/141/",
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/141/"
+    }
+  },
+  "1624": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1624/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1624/"
+    }
+  },
+  "1779": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1779/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1779/"
+    }
+  },
+  "2133": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2133/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2133/"
+    }
+  },
+  "2278": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2278/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2278/"
     }
   },
   "20": {
@@ -167,11 +1140,53 @@
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/20/"
     }
   },
+  "2404": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2404/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2404/"
+    }
+  },
+  "1979": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1979/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1979/"
+    }
+  },
+  "1426": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1426/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1426/"
+    }
+  },
   "202": {
     "difficulty": "Easy",
     "languages": {
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/202/",
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/202/"
+    }
+  },
+  "2231": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2231/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2231/"
+    }
+  },
+  "1984": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1984/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1984/"
+    }
+  },
+  "1995": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1995/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1995/"
     }
   },
   "26": {
@@ -181,11 +1196,193 @@
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/26/"
     }
   },
+  "1309": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1309/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1309/"
+    }
+  },
+  "1450": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1450/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1450/"
+    }
+  },
+  "1790": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1790/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1790/"
+    }
+  },
+  "1512": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1512/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1512/"
+    }
+  },
+  "2269": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2269/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2269/"
+    }
+  },
+  "1046": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1046/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1046/"
+    }
+  },
+  "2144": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2144/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2144/"
+    }
+  },
+  "1455": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1455/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1455/"
+    }
+  },
+  "1725": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1725/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1725/"
+    }
+  },
+  "2363": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2363/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2363/"
+    }
+  },
   "171": {
     "difficulty": "Easy",
     "languages": {
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/171/",
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/171/"
+    }
+  },
+  "1290": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1290/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1290/"
+    }
+  },
+  "2042": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2042/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2042/"
+    }
+  },
+  "1154": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1154/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1154/"
+    }
+  },
+  "1394": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1394/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1394/"
+    }
+  },
+  "2148": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2148/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2148/"
+    }
+  },
+  "2299": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2299/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2299/"
+    }
+  },
+  "2099": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2099/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2099/"
+    }
+  },
+  "1403": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1403/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1403/"
+    }
+  },
+  "2287": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2287/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2287/"
+    }
+  },
+  "1078": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1078/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1078/"
+    }
+  },
+  "2124": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2124/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2124/"
+    }
+  },
+  "1185": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1185/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1185/"
+    }
+  },
+  "1534": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1534/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1534/"
+    }
+  },
+  "2154": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2154/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2154/"
+    }
+  },
+  "2427": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2427/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2427/"
+    }
+  },
+  "1085": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1085/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1085/"
     }
   },
   "1431": {
@@ -195,11 +1392,81 @@
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1431/"
     }
   },
+  "1784": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1784/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1784/"
+    }
+  },
+  "1086": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1086/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1086/"
+    }
+  },
+  "2379": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2379/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2379/"
+    }
+  },
+  "2073": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2073/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2073/"
+    }
+  },
+  "1176": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1176/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1176/"
+    }
+  },
+  "1119": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1119/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1119/"
+    }
+  },
+  "1160": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1160/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1160/"
+    }
+  },
   "191": {
     "difficulty": "Easy",
     "languages": {
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/191/",
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/191/"
+    }
+  },
+  "1417": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1417/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1417/"
+    }
+  },
+  "2309": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2309/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2309/"
+    }
+  },
+  "1550": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1550/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1550/"
     }
   },
   "2848": {
@@ -216,11 +1483,95 @@
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/190/"
     }
   },
+  "2395": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2395/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2395/"
+    }
+  },
+  "2236": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2236/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2236/"
+    }
+  },
+  "1089": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1089/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1089/"
+    }
+  },
+  "2315": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2315/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2315/"
+    }
+  },
+  "1150": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1150/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1150/"
+    }
+  },
+  "1118": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1118/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1118/"
+    }
+  },
   "1071": {
     "difficulty": "Easy",
     "languages": {
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1071/",
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1071/"
+    }
+  },
+  "2138": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2138/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2138/"
+    }
+  },
+  "2367": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2367/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2367/"
+    }
+  },
+  "1929": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1929/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1929/"
+    }
+  },
+  "1710": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1710/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1710/"
+    }
+  },
+  "2180": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2180/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2180/"
+    }
+  },
+  "2325": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2325/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2325/"
     }
   },
   "872": {
@@ -230,6 +1581,139 @@
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/872/"
     }
   },
+  "1413": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1413/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1413/"
+    }
+  },
+  "1486": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1486/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1486/"
+    }
+  },
+  "1598": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1598/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1598/"
+    }
+  },
+  "1816": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1816/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1816/"
+    }
+  },
+  "1460": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1460/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1460/"
+    }
+  },
+  "1342": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1342/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1342/"
+    }
+  },
+  "1464": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1464/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1464/"
+    }
+  },
+  "1556": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1556/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1556/"
+    }
+  },
+  "1826": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1826/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1826/"
+    }
+  },
+  "1047": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1047/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1047/"
+    }
+  },
+  "1360": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1360/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1360/"
+    }
+  },
+  "1427": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1427/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1427/"
+    }
+  },
+  "2319": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2319/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2319/"
+    }
+  },
+  "1704": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1704/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1704/"
+    }
+  },
+  "2243": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2243/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2243/"
+    }
+  },
+  "2210": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2210/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2210/"
+    }
+  },
+  "1507": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1507/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1507/"
+    }
+  },
+  "1271": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1271/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1271/"
+    }
+  },
+  "2068": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2068/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2068/"
+    }
+  },
   "2839": {
     "difficulty": "Easy",
     "languages": {
@@ -237,11 +1721,46 @@
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2839/"
     }
   },
+  "2273": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2273/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2273/"
+    }
+  },
+  "2185": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2185/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2185/"
+    }
+  },
+  "1469": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1469/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1469/"
+    }
+  },
   "160": {
     "difficulty": "Easy",
     "languages": {
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/160/",
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/160/"
+    }
+  },
+  "1134": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1134/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1134/"
+    }
+  },
+  "2224": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2224/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2224/"
     }
   },
   "70": {
@@ -258,6 +1777,27 @@
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1/"
     }
   },
+  "2000": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2000/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2000/"
+    }
+  },
+  "2114": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2114/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2114/"
+    }
+  },
+  "1592": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1592/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1592/"
+    }
+  },
   "14": {
     "difficulty": "Easy",
     "languages": {
@@ -265,11 +1805,221 @@
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/14/"
     }
   },
+  "1446": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1446/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1446/"
+    }
+  },
+  "2423": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2423/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2423/"
+    }
+  },
+  "2341": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2341/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2341/"
+    }
+  },
+  "2037": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2037/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2037/"
+    }
+  },
+  "1103": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1103/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1103/"
+    }
+  },
+  "1544": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1544/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1544/"
+    }
+  },
+  "2373": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2373/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2373/"
+    }
+  },
+  "2293": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2293/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2293/"
+    }
+  },
+  "1582": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1582/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1582/"
+    }
+  },
+  "2119": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2119/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2119/"
+    }
+  },
+  "1672": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1672/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1672/"
+    }
+  },
+  "2176": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2176/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2176/"
+    }
+  },
   "118": {
     "difficulty": "Easy",
     "languages": {
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/118/",
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/118/"
+    }
+  },
+  "1370": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1370/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1370/"
+    }
+  },
+  "1380": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1380/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1380/"
+    }
+  },
+  "2089": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2089/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2089/"
+    }
+  },
+  "1279": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1279/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1279/"
+    }
+  },
+  "1056": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1056/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1056/"
+    }
+  },
+  "1502": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1502/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1502/"
+    }
+  },
+  "1399": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1399/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1399/"
+    }
+  },
+  "2078": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2078/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2078/"
+    }
+  },
+  "2229": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2229/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2229/"
+    }
+  },
+  "1114": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1114/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1114/"
+    }
+  },
+  "2303": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2303/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2303/"
+    }
+  },
+  "1694": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1694/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1694/"
+    }
+  },
+  "1266": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1266/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1266/"
+    }
+  },
+  "1313": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1313/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1313/"
+    }
+  },
+  "1389": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/1389/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/1389/"
+    }
+  },
+  "2194": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2194/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2194/"
+    }
+  },
+  "2357": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2357/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2357/"
+    }
+  },
+  "2006": {
+    "difficulty": "Easy",
+    "languages": {
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/easy/2006/",
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/2006/"
     }
   },
   "29": {
@@ -1936,13 +3686,6 @@
     "languages": {
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/medium/1834/",
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/medium/1834/"
-    }
-  },
-  "1647 copy": {
-    "difficulty": "Medium",
-    "languages": {
-      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/medium/1647 copy/",
-      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/medium/1647 copy/"
     }
   },
   "1870": {
@@ -5120,13 +6863,6 @@
     "languages": {
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/hard/1728/",
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/hard/1728/"
-    }
-  },
-  "2251 copy": {
-    "difficulty": "Hard",
-    "languages": {
-      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/hard/2251 copy/",
-      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/hard/2251 copy/"
     }
   },
   "1606": {
