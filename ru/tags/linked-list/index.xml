@@ -2,13 +2,12 @@
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.
 Example 1:
 Input: l1 = [2,4,3], l2 = [5,6,4] Output: [7,0,8] Explanation: 342 + 465 = 807. First accepted Idea:
-Loop through lists add each value to the list reverse list calculate sum create linked list from reversed sum class Solution: def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -&amp;gt; Optional[ListNode]: def createLinkedNode(values): head = ListNode(values[0]) current = head for i in values[1:]: node = ListNode(i) current.</description></item><item><title>19. Remove Nth Node From End of List</title><link>https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/medium/19/</link><pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate><guid>https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/medium/19/</guid><description>LeetCode problem
+Loop through lists add each value to the list reverse list calculate sum create linked list from reversed sum class Solution: def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -&amp;gt; Optional[ListNode]: def createLinkedNode(values): head = ListNode(values[0]) current = head for i in values[1:]: node = ListNode(i) current.</description></item><item><title>19. Remove Nth Node From End of List</title><link>https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/medium/19/</link><pubDate>Sun, 13 Nov 2022 00:00:00 +0000</pubDate><guid>https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/medium/19/</guid><description>LeetCode problem 19
 Given the &amp;lsquo;head&amp;rsquo; of a linked list, remove the &amp;rsquo;nth&amp;rsquo; node from the end of the list and return its head.
 Example 1:
 Input: head = [1,2,3,4,5], n = 2 Output: [1,2,3,5] Example 2:
 Input: head = [1], n = 1 Output: [] Idea:
-Two pointers. Second pointer starts from nth position. Run while second pointer exist. First version:
-# Definition for singly-linked list. # class ListNode: # def __init__(self, val=0, next=None): # self.val = val # self.</description></item><item><title>21. Merge Two Sorted Lists</title><link>https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/21/</link><pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate><guid>https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/21/</guid><description>LeetCode problem
+Two pointers. Second pointer starts from nth position. Run while second pointer exist. # Definition for singly-linked list. # class ListNode: # def __init__(self, val=0, next=None): # self.val = val # self.</description></item><item><title>21. Merge Two Sorted Lists</title><link>https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/21/</link><pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate><guid>https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/21/</guid><description>LeetCode problem
 You are given the heads of two sorted linked lists list1 and list2.
 Merge the two lists in a one sorted list. The list should be made by splicing together the nodes of the first two lists.
 Return the head of the merged linked list.
