@@ -10385,8 +10385,8 @@
               var nextNode = node.nextSibling;
               parentInstance.removeChild(node);
               if (nextNode && nextNode.nodeType === COMMENT_NODE) {
-                var data = nextNode.data;
-                if (data === SUSPENSE_END_DATA) {
+                var data2 = nextNode.data;
+                if (data2 === SUSPENSE_END_DATA) {
                   if (depth === 0) {
                     parentInstance.removeChild(nextNode);
                     retryIfBlockedOn(suspenseInstance);
@@ -10394,7 +10394,7 @@
                   } else {
                     depth--;
                   }
-                } else if (data === SUSPENSE_START_DATA || data === SUSPENSE_PENDING_START_DATA || data === SUSPENSE_FALLBACK_START_DATA) {
+                } else if (data2 === SUSPENSE_START_DATA || data2 === SUSPENSE_PENDING_START_DATA || data2 === SUSPENSE_FALLBACK_START_DATA) {
                   depth++;
                 }
               }
@@ -10539,14 +10539,14 @@
             var depth = 0;
             while (node) {
               if (node.nodeType === COMMENT_NODE) {
-                var data = node.data;
-                if (data === SUSPENSE_END_DATA) {
+                var data2 = node.data;
+                if (data2 === SUSPENSE_END_DATA) {
                   if (depth === 0) {
                     return getNextHydratableSibling(node);
                   } else {
                     depth--;
                   }
-                } else if (data === SUSPENSE_START_DATA || data === SUSPENSE_FALLBACK_START_DATA || data === SUSPENSE_PENDING_START_DATA) {
+                } else if (data2 === SUSPENSE_START_DATA || data2 === SUSPENSE_FALLBACK_START_DATA || data2 === SUSPENSE_PENDING_START_DATA) {
                   depth++;
                 }
               }
@@ -10559,14 +10559,14 @@
             var depth = 0;
             while (node) {
               if (node.nodeType === COMMENT_NODE) {
-                var data = node.data;
-                if (data === SUSPENSE_START_DATA || data === SUSPENSE_FALLBACK_START_DATA || data === SUSPENSE_PENDING_START_DATA) {
+                var data2 = node.data;
+                if (data2 === SUSPENSE_START_DATA || data2 === SUSPENSE_FALLBACK_START_DATA || data2 === SUSPENSE_PENDING_START_DATA) {
                   if (depth === 0) {
                     return node;
                   } else {
                     depth--;
                   }
-                } else if (data === SUSPENSE_END_DATA) {
+                } else if (data2 === SUSPENSE_END_DATA) {
                   depth++;
                 }
               }
@@ -23513,9 +23513,9 @@
   var divRender = "_react_leetcode_grid_";
   var CELL_WIDTH = 50;
   var Matrix = () => {
-    const size = 3032;
+    const [cellsCount, setCellsCount] = (0, import_react.useState)(3100);
     const [columns, setColumns] = (0, import_react.useState)(10);
-    const [leetcodeProblems, setLeetcodeProblems] = (0, import_react.useState)({});
+    const [leetCodeProblems, setLeetCodeProblems] = (0, import_react.useState)({});
     const matrixRef = (0, import_react.useRef)(null);
     (0, import_react.useEffect)(() => {
       const updateColumns = () => {
@@ -23527,13 +23527,13 @@
       window.addEventListener("resize", updateColumns);
       updateColumns();
       const leetCodeProblemsUrl = "https://romankurnovskii.com/leetcode-problems.json";
-      fetch(leetCodeProblemsUrl).then((response) => response.json()).then((data) => setLeetcodeProblems(data)).catch(
-        (error) => console.error("Failed to load leetcode problems:", error)
+      fetch(leetCodeProblemsUrl).then((response) => response.json()).then((data2) => setLeetCodeProblems(data2)).then(() => setCellsCount(Math.max(Object.keys(data)) + 50)).catch(
+        (error) => console.error("Failed to load LeetCode problems:", error)
       );
       return () => window.removeEventListener("resize", updateColumns);
     }, []);
     const getCellStyle = (number) => {
-      const problemInfo = leetcodeProblems[number.toString()];
+      const problemInfo = leetCodeProblems[number.toString()];
       const _cellStyle = {
         display: "flex",
         justifyContent: "center",
@@ -23560,7 +23560,7 @@
       }
       return _cellStyle;
     };
-    const numbers = Array.from({ length: size }, (_, i) => i + 1);
+    const numbers = Array.from({ length: cellsCount }, (_, i) => i + 1);
     return /* @__PURE__ */ React.createElement(
       "div",
       {
@@ -23573,7 +23573,7 @@
       },
       numbers.map((number, index) => {
         const cellStyle = getCellStyle(number);
-        const problemInfo = leetcodeProblems[number.toString()];
+        const problemInfo = leetCodeProblems[number.toString()];
         let cell = /* @__PURE__ */ React.createElement(React.Fragment, null, number);
         if (problemInfo && problemInfo.languages[userLang]) {
           cell = /* @__PURE__ */ React.createElement(
