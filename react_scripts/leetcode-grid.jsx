@@ -1,16 +1,14 @@
 import { useEffect, useState, useRef } from "react";
 import { createRoot } from "react-dom/client";
 
-// console.log("leetcodeProblems", window.location.host, leetcodeProblems);
-
 const divRender = "_react_leetcode_grid_"; // Make sure this matches the ID of your root div element
 
 const CELL_WIDTH = 50;
 
 const Matrix = () => {
-  const size = 3032; // Total numbers
+  const [cellsCount, setCellsCount] = useState(3100); // Total numbers
   const [columns, setColumns] = useState(10);
-  const [leetcodeProblems, setLeetcodeProblems] = useState({});
+  const [leetCodeProblems, setLeetCodeProblems] = useState({});
   const matrixRef = useRef(null); // Ref to the matrix container
 
   useEffect(() => {
@@ -28,16 +26,17 @@ const Matrix = () => {
       "https://romankurnovskii.com/leetcode-problems.json";
     fetch(leetCodeProblemsUrl)
       .then((response) => response.json())
-      .then((data) => setLeetcodeProblems(data))
+      .then((data) => setLeetCodeProblems(data))
+      .then(() => setCellsCount(Math.max(Object.keys(data)) + 50))
       .catch((error) =>
-        console.error("Failed to load leetcode problems:", error),
+        console.error("Failed to load LeetCode problems:", error),
       );
 
     return () => window.removeEventListener("resize", updateColumns);
   }, []);
 
   const getCellStyle = (number) => {
-    const problemInfo = leetcodeProblems[number.toString()];
+    const problemInfo = leetCodeProblems[number.toString()];
     const _cellStyle = {
       display: "flex",
       justifyContent: "center",
@@ -67,7 +66,7 @@ const Matrix = () => {
     return _cellStyle;
   };
 
-  const numbers = Array.from({ length: size }, (_, i) => i + 1);
+  const numbers = Array.from({ length: cellsCount }, (_, i) => i + 1);
 
   return (
     <div
@@ -80,7 +79,7 @@ const Matrix = () => {
     >
       {numbers.map((number, index) => {
         const cellStyle = getCellStyle(number);
-        const problemInfo = leetcodeProblems[number.toString()];
+        const problemInfo = leetCodeProblems[number.toString()];
         let cell = <>{number}</>;
         if (problemInfo && problemInfo.languages[userLang]) {
           cell = (
