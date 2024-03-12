@@ -2,7 +2,7 @@
 Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated according to the following rules:
 Each row must contain the digits 1-9 without repetition. Each column must contain the digits 1-9 without repetition. Each of the nine 3 x 3 sub-boxes of the grid must contain the digits 1-9 without repetition.
 Note:
-A Sudoku board (partially filled) could be valid but is not necessarily solvable. Only the filled cells need to be validated according to the mentioned rules.</description></item><item><title>48. Rotate Image</title><link>https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/medium/48/</link><pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate><guid>https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/medium/48/</guid><description>LeetCode problem
+A Sudoku board (partially filled) could be valid but is not necessarily solvable. Only the filled cells need to be validated according to the mentioned rules.</description></item><item><title>48. Rotate Image</title><link>https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/medium/48/</link><pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate><guid>https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/medium/48/</guid><description>LeetCode problem 48
 You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise).
 You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation.
 Example 1:
