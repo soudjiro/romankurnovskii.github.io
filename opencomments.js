@@ -28395,12 +28395,11 @@
 
   // node_modules/style-to-js/cjs/index.js
   var require_cjs2 = __commonJS({
-    "node_modules/style-to-js/cjs/index.js"(exports) {
+    "node_modules/style-to-js/cjs/index.js"(exports, module) {
       "use strict";
       var __importDefault = exports && exports.__importDefault || function(mod) {
         return mod && mod.__esModule ? mod : { "default": mod };
       };
-      Object.defineProperty(exports, "__esModule", { value: true });
       var style_to_object_1 = __importDefault(require_cjs());
       var utilities_1 = require_utilities2();
       function StyleToJS(style, options2) {
@@ -28415,7 +28414,8 @@
         });
         return output;
       }
-      exports.default = StyleToJS;
+      StyleToJS.default = StyleToJS;
+      module.exports = StyleToJS;
     }
   });
 
