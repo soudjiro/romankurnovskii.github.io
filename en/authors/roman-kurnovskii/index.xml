@@ -4761,11 +4761,11 @@ loading="lazy"
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>chart</title><link>https://romankurnovskii.com/en/posts/hugo-shortcode-examples/chart/</link><pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate><guid>https://romankurnovskii.com/en/posts/hugo-shortcode-examples/chart/</guid><description>&lt;p>Display &lt;a href="https://www.chartjs.org/">Chart.js&lt;/a> diagrams/blocks&lt;/p>
 &lt;p>&lt;a href="https://github.com/romankurnovskii/awesome-hugo-shortcodes/tree/main/shortcodes/chart">Sources&lt;/a>&lt;/p>
 &lt;div style="width: 100%;height: 300px;margin: 0 auto">
-&lt;canvas id="cccd484fec1cddacce556fbbdf84428a">&lt;/canvas>
+&lt;canvas id="84c8a2cdfd45c4d4ebcc8baefcc1d6f5">&lt;/canvas>
 &lt;/div>
 &lt;script src="https://cdn.jsdelivr.net/npm/chart.js/dist/chart.min.js">&lt;/script>
 &lt;script type="text/javascript">
-var ctx = document.getElementById('cccd484fec1cddacce556fbbdf84428a').getContext('2d');
+var ctx = document.getElementById('84c8a2cdfd45c4d4ebcc8baefcc1d6f5').getContext('2d');
 var options =
 {
 type: 'bar',
@@ -4807,11 +4807,11 @@ beginAtZero: true
 new Chart(ctx, options);
 &lt;/script>
 &lt;div style="width: 100%;height: 300px;margin: 0 auto">
-&lt;canvas id="6bafb84da1edccc5f884c5cfcd2d4e4c">&lt;/canvas>
+&lt;canvas id="552c84cddf8b1aecbcc8af4fdedc46c4">&lt;/canvas>
 &lt;/div>
 &lt;script src="https://cdn.jsdelivr.net/npm/chart.js/dist/chart.min.js">&lt;/script>
 &lt;script type="text/javascript">
-var ctx = document.getElementById('6bafb84da1edccc5f884c5cfcd2d4e4c').getContext('2d');
+var ctx = document.getElementById('552c84cddf8b1aecbcc8af4fdedc46c4').getContext('2d');
 var options =
 {
 type: 'line',
@@ -4853,11 +4853,11 @@ beginAtZero: true
 new Chart(ctx, options);
 &lt;/script>
 &lt;div style="width: 100%;height: 300px;margin: 0 auto">
-&lt;canvas id="ffb4cba4d4ce84c86c5ccd821deafd5c">&lt;/canvas>
+&lt;canvas id="6d8b4d88accfc4cef4d5d1ccfea5c2b4">&lt;/canvas>
 &lt;/div>
 &lt;script src="https://cdn.jsdelivr.net/npm/chart.js/dist/chart.min.js">&lt;/script>
 &lt;script type="text/javascript">
-var ctx = document.getElementById('ffb4cba4d4ce84c86c5ccd821deafd5c').getContext('2d');
+var ctx = document.getElementById('6d8b4d88accfc4cef4d5d1ccfea5c2b4').getContext('2d');
 var options =
 {
 type: 'pie',
