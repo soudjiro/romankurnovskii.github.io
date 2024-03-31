@@ -4562,6 +4562,13 @@
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/medium/1792/"
     }
   },
+  "713": {
+    "difficulty": "Medium",
+    "languages": {
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/medium/713/",
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/medium/713/"
+    }
+  },
   "1452": {
     "difficulty": "Medium",
     "languages": {
@@ -7250,6 +7257,13 @@
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/hard/1835/"
     }
   },
+  "41": {
+    "difficulty": "Hard",
+    "languages": {
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/hard/41/",
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/hard/41/"
+    }
+  },
   "2318": {
     "difficulty": "Hard",
     "languages": {
@@ -7815,6 +7829,13 @@
     "languages": {
       "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/hard/2403/",
       "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/hard/2403/"
+    }
+  },
+  "992": {
+    "difficulty": "Hard",
+    "languages": {
+      "ru": "https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/hard/992/",
+      "en": "https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/hard/992/"
     }
   },
   "1944": {
