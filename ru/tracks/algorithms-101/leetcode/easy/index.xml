@@ -384,6 +384,20 @@ loading="lazy"
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> k &lt;span style="color:#666">+=&lt;/span> &lt;span style="color:#40a070">1&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">return&lt;/span> k
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>58. Length of Last Word</title><link>https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/58/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/58/</guid><description>&lt;p>&lt;a href="https://leetcode.com/problems/length-of-last-word/">LeetCode problem 58&lt;/a>&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#007020;font-weight:bold">class&lt;/span> &lt;span style="color:#0e84b5;font-weight:bold">Solution&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">def&lt;/span> &lt;span style="color:#06287e">lengthOfLastWord&lt;/span>(self, s: &lt;span style="color:#007020">str&lt;/span>) &lt;span style="color:#666">-&amp;gt;&lt;/span> &lt;span style="color:#007020">int&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> i &lt;span style="color:#666">=&lt;/span> &lt;span style="color:#007020">len&lt;/span>(s) &lt;span style="color:#666">-&lt;/span> &lt;span style="color:#40a070">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">while&lt;/span> i &lt;span style="color:#666">&amp;gt;=&lt;/span> &lt;span style="color:#40a070">0&lt;/span> &lt;span style="color:#007020;font-weight:bold">and&lt;/span> s[i] &lt;span style="color:#666">==&lt;/span> &lt;span style="color:#4070a0">&amp;#39; &amp;#39;&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> i &lt;span style="color:#666">-=&lt;/span> &lt;span style="color:#40a070">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> j &lt;span style="color:#666">=&lt;/span> i
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">while&lt;/span> j &lt;span style="color:#666">&amp;gt;=&lt;/span> &lt;span style="color:#40a070">0&lt;/span> &lt;span style="color:#007020;font-weight:bold">and&lt;/span> s[j] &lt;span style="color:#666">!=&lt;/span> &lt;span style="color:#4070a0">&amp;#39; &amp;#39;&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> j &lt;span style="color:#666">-=&lt;/span> &lt;span style="color:#40a070">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">return&lt;/span> i &lt;span style="color:#666">-&lt;/span> j
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#007020;font-weight:bold">class&lt;/span> &lt;span style="color:#0e84b5;font-weight:bold">Solution&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">def&lt;/span> &lt;span style="color:#06287e">lengthOfLastWord&lt;/span>(self, s: &lt;span style="color:#007020">str&lt;/span>) &lt;span style="color:#666">-&amp;gt;&lt;/span> &lt;span style="color:#007020">int&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> ar &lt;span style="color:#666">=&lt;/span> s&lt;span style="color:#666">.&lt;/span>split()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">return&lt;/span> &lt;span style="color:#007020">len&lt;/span>(ar[&lt;span style="color:#666">-&lt;/span>&lt;span style="color:#40a070">1&lt;/span>])
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>66. Plus One</title><link>https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/66/</link><pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate><guid>https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/66/</guid><description>&lt;p>&lt;a href="https://leetcode.com/problems/plus-one/">LeetCode problem&lt;/a>&lt;/p>
 &lt;p>You are given a large integer represented as an integer array &lt;code>digits&lt;/code>, where each &lt;code>digits[i]&lt;/code> is the &lt;code>ith&lt;/code> digit of the integer. The digits are ordered from most significant to least significant in left-to-right order. The large integer does not contain any leading &lt;code>0&lt;/code>&amp;rsquo;s.&lt;/p>
 &lt;p>Increment the large integer by one and return the resulting array of digits.&lt;/p>
@@ -966,7 +980,45 @@ Example:&lt;/p>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">return&lt;/span> fast &lt;span style="color:#666">==&lt;/span> &lt;span style="color:#40a070">1&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>In this solution, the function &lt;code>get_next(n)&lt;/code> is used to get the next number in the sequence by replacing &lt;code>n&lt;/code> with the sum of the squares of its digits.&lt;/p>
 &lt;p>We initialize &lt;code>slow&lt;/code> and &lt;code>fast&lt;/code> to &lt;code>n&lt;/code> and &lt;code>get_next(n)&lt;/code> respectively.&lt;/p>
-&lt;p>Then, until &lt;code>fast&lt;/code> equals 1 or &lt;code>slow&lt;/code> catches up to &lt;code>fast&lt;/code>, we continue moving &lt;code>slow&lt;/code> one step at a time and &lt;code>fast&lt;/code> two steps at a time. If &lt;code>fast&lt;/code> equals 1 at the end of the loop, &lt;code>n&lt;/code> is a happy number.&lt;/p></description></item><item><title>206. Reverse Linked List</title><link>https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/206/</link><pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate><guid>https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/206/</guid><description>&lt;p>&lt;a href="https://leetcode.com/problems/reverse-linked-list/">LeetCode задача 206&lt;/a>&lt;/p>
+&lt;p>Then, until &lt;code>fast&lt;/code> equals 1 or &lt;code>slow&lt;/code> catches up to &lt;code>fast&lt;/code>, we continue moving &lt;code>slow&lt;/code> one step at a time and &lt;code>fast&lt;/code> two steps at a time. If &lt;code>fast&lt;/code> equals 1 at the end of the loop, &lt;code>n&lt;/code> is a happy number.&lt;/p></description></item><item><title>205. Isomorphic Strings</title><link>https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/205/</link><pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate><guid>https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/205/</guid><description>&lt;p>&lt;a href="https://leetcode.com/problems/isomorphic-strings/">LeetCode problem 205&lt;/a>&lt;/p>
+&lt;p>Use two dictionaries to track the mappings from &lt;code>s&lt;/code> to &lt;code>t&lt;/code> and from &lt;code>t&lt;/code> to &lt;code>s&lt;/code>. This helps in ensuring no two characters map to the same character.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Key Idea&lt;/strong>: To verify if two strings are isomorphic, we need to ensure that each character in s maps to a unique character in t, and vice versa. This bi-directional mapping is crucial to maintain the isomorphism property.&lt;/li>
+&lt;li>&lt;strong>Data Structures&lt;/strong>: Two hash maps (or dictionaries in Python) are ideal for maintaining these mappings efficiently.&lt;/li>
+&lt;/ul>
+&lt;h2 id="approach">Approach&lt;/h2>
+&lt;ol>
+&lt;li>Initial Checks: If the lengths of &lt;code>s&lt;/code> and &lt;code>t&lt;/code> are different, they cannot be isomorphic. Return false immediately.&lt;/li>
+&lt;li>Create Two Mappings: Initialize two dictionaries. One for mapping characters from &lt;code>s&lt;/code> to &lt;code>t&lt;/code> (&lt;code>s_to_t&lt;/code>) and another from &lt;code>t&lt;/code> to &lt;code>s&lt;/code> (&lt;code>t_to_s&lt;/code>).&lt;/li>
+&lt;li>Iterate Over Characters:&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>For each character pair (&lt;code>s_char&lt;/code>, &lt;code>t_char&lt;/code>) in &lt;code>s&lt;/code> and &lt;code>t&lt;/code>, check:
+&lt;ul>
+&lt;li>If &lt;code>s_char&lt;/code> maps to a different &lt;code>t_char&lt;/code> in &lt;code>s_to_t&lt;/code>, or &lt;code>t_char&lt;/code> maps to a different &lt;code>s_char&lt;/code> in &lt;code>t_to_s&lt;/code>, return false.&lt;/li>
+&lt;li>Update &lt;code>s_to_t[s_char] = t_char&lt;/code> and &lt;code>t_to_s[t_char] = s_char&lt;/code>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;ol>
+&lt;li>Return True: If the loop completes without returning false, then &lt;code>s&lt;/code> and &lt;code>t&lt;/code> are isomorphic.&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#007020;font-weight:bold">class&lt;/span> &lt;span style="color:#0e84b5;font-weight:bold">Solution&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">def&lt;/span> &lt;span style="color:#06287e">isIsomorphic&lt;/span>(self, s: &lt;span style="color:#007020">str&lt;/span>, t: &lt;span style="color:#007020">str&lt;/span>) &lt;span style="color:#666">-&amp;gt;&lt;/span> &lt;span style="color:#007020">bool&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">if&lt;/span> &lt;span style="color:#007020">len&lt;/span>(s) &lt;span style="color:#666">!=&lt;/span> &lt;span style="color:#007020">len&lt;/span>(t):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">return&lt;/span> &lt;span style="color:#007020;font-weight:bold">False&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> s_to_t, t_to_s &lt;span style="color:#666">=&lt;/span> {}, {}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">for&lt;/span> s_char, t_char &lt;span style="color:#007020;font-weight:bold">in&lt;/span> &lt;span style="color:#007020">zip&lt;/span>(s, t):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">if&lt;/span> (s_char &lt;span style="color:#007020;font-weight:bold">in&lt;/span> s_to_t &lt;span style="color:#007020;font-weight:bold">and&lt;/span> s_to_t[s_char] &lt;span style="color:#666">!=&lt;/span> t_char) &lt;span style="color:#007020;font-weight:bold">or&lt;/span> \
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> (t_char &lt;span style="color:#007020;font-weight:bold">in&lt;/span> t_to_s &lt;span style="color:#007020;font-weight:bold">and&lt;/span> t_to_s[t_char] &lt;span style="color:#666">!=&lt;/span> s_char):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">return&lt;/span> &lt;span style="color:#007020;font-weight:bold">False&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> s_to_t[s_char] &lt;span style="color:#666">=&lt;/span> t_char
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> t_to_s[t_char] &lt;span style="color:#666">=&lt;/span> s_char
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">return&lt;/span> &lt;span style="color:#007020;font-weight:bold">True&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>206. Reverse Linked List</title><link>https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/206/</link><pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate><guid>https://romankurnovskii.com/ru/tracks/algorithms-101/leetcode/easy/206/</guid><description>&lt;p>&lt;a href="https://leetcode.com/problems/reverse-linked-list/">LeetCode задача 206&lt;/a>&lt;/p>
 &lt;h2 id="задача">Задача&lt;/h2>
 &lt;p>Дана голова односвязного списка. Задача состоит в том, чтобы развернуть этот список и вернуть его развернутую версию.&lt;/p>
 &lt;h2 id="подсказки">Подсказки&lt;/h2>
