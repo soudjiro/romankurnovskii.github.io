@@ -4333,6 +4333,48 @@ Your browser does not support the video tag.
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> cur&lt;span style="color:#666">.&lt;/span>next &lt;span style="color:#666">=&lt;/span> last[s]&lt;span style="color:#666">.&lt;/span>next
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> cur &lt;span style="color:#666">=&lt;/span> cur&lt;span style="color:#666">.&lt;/span>next
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">return&lt;/span> dummy&lt;span style="color:#666">.&lt;/span>next
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>1249. Minimum Remove to Make Valid Parentheses</title><link>https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/medium/1249/</link><pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate><guid>https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/medium/1249/</guid><description>&lt;p>&lt;a href="https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/">LeetCode problem 1249&lt;/a>&lt;/p>
+&lt;h2 id="approach">Approach&lt;/h2>
+&lt;p>The problem can be solved in two passes using a stack for the first pass and a simple iteration for the second:&lt;/p>
+&lt;ol>
+&lt;li>First Pass (Identify Invalid Parentheses):&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Iterate through the string, and for every character:
+&lt;ul>
+&lt;li>If it&amp;rsquo;s &amp;lsquo;(&amp;rsquo;, push its index onto the stack.&lt;/li>
+&lt;li>If it&amp;rsquo;s &amp;lsquo;)&amp;rsquo; and the stack is not empty (there is a matching &amp;lsquo;(&amp;rsquo;), pop from the stack. Otherwise, mark this &amp;lsquo;)&amp;rsquo; as invalid.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>After the iteration, any indices remaining in the stack represent unmatched &amp;lsquo;(&amp;rsquo; that should be removed.&lt;/li>
+&lt;/ul>
+&lt;ol start="2">
+&lt;li>Second Pass (Build the Result String):&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Iterate through the string again, building the result string by including characters that are not marked as invalid.&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#007020;font-weight:bold">class&lt;/span> &lt;span style="color:#0e84b5;font-weight:bold">Solution&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">def&lt;/span> &lt;span style="color:#06287e">minRemoveToMakeValid&lt;/span>(self, s: &lt;span style="color:#007020">str&lt;/span>) &lt;span style="color:#666">-&amp;gt;&lt;/span> &lt;span style="color:#007020">str&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> stack &lt;span style="color:#666">=&lt;/span> [] &lt;span style="color:#60a0b0;font-style:italic"># Stack to keep track of the indices of &amp;#39;(&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> remove_indices &lt;span style="color:#666">=&lt;/span> &lt;span style="color:#007020">set&lt;/span>() &lt;span style="color:#60a0b0;font-style:italic"># Set to keep track of indices to remove&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">for&lt;/span> i, char &lt;span style="color:#007020;font-weight:bold">in&lt;/span> &lt;span style="color:#007020">enumerate&lt;/span>(s): &lt;span style="color:#60a0b0;font-style:italic"># First pass to identify invalid parentheses&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">if&lt;/span> char &lt;span style="color:#666">==&lt;/span> &lt;span style="color:#4070a0">&amp;#39;(&amp;#39;&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> stack&lt;span style="color:#666">.&lt;/span>append(i)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">elif&lt;/span> char &lt;span style="color:#666">==&lt;/span> &lt;span style="color:#4070a0">&amp;#39;)&amp;#39;&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">if&lt;/span> stack:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> stack&lt;span style="color:#666">.&lt;/span>pop()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">else&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> remove_indices&lt;span style="color:#666">.&lt;/span>add(i)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#60a0b0;font-style:italic"># Add indices of remaining &amp;#39;(&amp;#39; to remove&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> remove_indices &lt;span style="color:#666">=&lt;/span> remove_indices&lt;span style="color:#666">.&lt;/span>union(&lt;span style="color:#007020">set&lt;/span>(stack))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#60a0b0;font-style:italic"># Second pass to build the result string&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> result &lt;span style="color:#666">=&lt;/span> [s[i] &lt;span style="color:#007020;font-weight:bold">for&lt;/span> i &lt;span style="color:#007020;font-weight:bold">in&lt;/span> &lt;span style="color:#007020">range&lt;/span>(&lt;span style="color:#007020">len&lt;/span>(s)) &lt;span style="color:#007020;font-weight:bold">if&lt;/span> i &lt;span style="color:#007020;font-weight:bold">not&lt;/span> &lt;span style="color:#007020;font-weight:bold">in&lt;/span> remove_indices]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#007020;font-weight:bold">return&lt;/span> &lt;span style="color:#4070a0">&amp;#39;&amp;#39;&lt;/span>&lt;span style="color:#666">.&lt;/span>join(result)
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>1282. Group the People Given the Group Size They Belong To</title><link>https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/medium/1282/</link><pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate><guid>https://romankurnovskii.com/en/tracks/algorithms-101/leetcode/medium/1282/</guid><description>&lt;p>&lt;a href="https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/">LeetCode задача 1282&lt;/a>&lt;/p>
 &lt;h2 id="задача">Задача&lt;/h2>
 &lt;p>Есть &lt;code>n&lt;/code> человек, которые разделены на неизвестное количество групп. Каждому человеку присвоен уникальный ID от 0 до n - 1.&lt;/p>
