@@ -3659,7 +3659,27 @@ https://main.d33tdgi01iojga.amplifyapp.com/addQuestion
 &lt;mark style="color:white">&lt;/mark>
 &lt;/div>
 &lt;/details>
---></description></item><item><title>nmap - cheatsheet</title><link>https://romankurnovskii.com/en/posts/linux/nmap-cheatsheet/</link><pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate><guid>https://romankurnovskii.com/en/posts/linux/nmap-cheatsheet/</guid><description>&lt;h2 id="scanning-options">Scanning Options&lt;/h2>
+--></description></item><item><title>Initial Setup Guide for Ubuntu 22.04 on a VPS</title><link>https://romankurnovskii.com/en/posts/linux/ubuntu-server-initial-setup/</link><pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate><guid>https://romankurnovskii.com/en/posts/linux/ubuntu-server-initial-setup/</guid><description>&lt;h2 id="update-and-upgrade-packages">Update and Upgrade Packages&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-fallback" data-lang="fallback">&lt;span style="display:flex;">&lt;span>apt update
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>apt upgrade -y
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="setting-up-ssh-keys">Setting Up SSH Keys&lt;/h2>
+&lt;p>Using SSH keys instead of passwords enhances security. First, generate an SSH key pair on your local machine (if you don&amp;rsquo;t already have one):&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>ssh-keygen -t ed25519 -C &lt;span style="color:#4070a0">&amp;#34;your_email@example.com&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Next, copy your public SSH key to the new user&amp;rsquo;s account on your server. You can do this from your local machine:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>ssh-copy-id username@your_server_ip
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#60a0b0;font-style:italic"># or with provided port&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>ssh-copy-id -p &lt;span style="color:#40a070">1234&lt;/span> username@your_server_ip
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>This command uploads your public SSH key and configures the server to recognize it.&lt;/p>
+&lt;h2 id="disabling-password-authentication">Disabling Password Authentication&lt;/h2>
+&lt;p>To prevent SSH login using a username and password, edit the SSH configuration file:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>sudo nano /etc/ssh/sshd_config
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Find the following lines and modify them as shown:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-plaintext" data-lang="plaintext">&lt;span style="display:flex;">&lt;span>PasswordAuthentication no
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>UsePAM no
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>After making these changes, restart the SSH service to apply them:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="background-color:#f0f0f0;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo systemctl restart sshd
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>nmap - cheatsheet</title><link>https://romankurnovskii.com/en/posts/linux/nmap-cheatsheet/</link><pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate><guid>https://romankurnovskii.com/en/posts/linux/nmap-cheatsheet/</guid><description>&lt;h2 id="scanning-options">Scanning Options&lt;/h2>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -4761,11 +4781,11 @@ loading="lazy"
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>chart</title><link>https://romankurnovskii.com/en/posts/hugo-shortcode-examples/chart/</link><pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate><guid>https://romankurnovskii.com/en/posts/hugo-shortcode-examples/chart/</guid><description>&lt;p>Display &lt;a href="https://www.chartjs.org/">Chart.js&lt;/a> diagrams/blocks&lt;/p>
 &lt;p>&lt;a href="https://github.com/romankurnovskii/awesome-hugo-shortcodes/tree/main/shortcodes/chart">Sources&lt;/a>&lt;/p>
 &lt;div style="width: 100%;height: 300px;margin: 0 auto">
-&lt;canvas id="f8dfeabf6ca5842d1cccdcdcbe84445c">&lt;/canvas>
+&lt;canvas id="4dccb88fc8e6ca45dca42d1f5ecdcb4f">&lt;/canvas>
 &lt;/div>
 &lt;script src="https://cdn.jsdelivr.net/npm/chart.js/dist/chart.min.js">&lt;/script>
 &lt;script type="text/javascript">
-var ctx = document.getElementById('f8dfeabf6ca5842d1cccdcdcbe84445c').getContext('2d');
+var ctx = document.getElementById('4dccb88fc8e6ca45dca42d1f5ecdcb4f').getContext('2d');
 var options =
 {
 type: 'bar',
@@ -4807,11 +4827,11 @@ beginAtZero: true
 new Chart(ctx, options);
 &lt;/script>
 &lt;div style="width: 100%;height: 300px;margin: 0 auto">
-&lt;canvas id="4baba2cce58c4f8f4d5dccfd1dc6ec84">&lt;/canvas>
+&lt;canvas id="dd4cbfc68abcec5cf5a82f414d4dcc8e">&lt;/canvas>
 &lt;/div>
 &lt;script src="https://cdn.jsdelivr.net/npm/chart.js/dist/chart.min.js">&lt;/script>
 &lt;script type="text/javascript">
-var ctx = document.getElementById('4baba2cce58c4f8f4d5dccfd1dc6ec84').getContext('2d');
+var ctx = document.getElementById('dd4cbfc68abcec5cf5a82f414d4dcc8e').getContext('2d');
 var options =
 {
 type: 'line',
@@ -4853,11 +4873,11 @@ beginAtZero: true
 new Chart(ctx, options);
 &lt;/script>
 &lt;div style="width: 100%;height: 300px;margin: 0 auto">
-&lt;canvas id="8c5d44d24caca4eb6c1588eddcfcbcff">&lt;/canvas>
+&lt;canvas id="c8dbad41fdc6b4c8efa44ccc52de85cf">&lt;/canvas>
 &lt;/div>
 &lt;script src="https://cdn.jsdelivr.net/npm/chart.js/dist/chart.min.js">&lt;/script>
 &lt;script type="text/javascript">
-var ctx = document.getElementById('8c5d44d24caca4eb6c1588eddcfcbcff').getContext('2d');
+var ctx = document.getElementById('c8dbad41fdc6b4c8efa44ccc52de85cf').getContext('2d');
 var options =
 {
 type: 'pie',
@@ -5887,7 +5907,7 @@ Your browser does not support the video tag.
 &lt;/video>
 &lt;h3 id="process">Process&lt;/h3>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/dHwGdSaO-tk?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="How to zoom in Image on click in Hugo"
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/dHwGdSaO-tk?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
 >&lt;/iframe>
 &lt;/div></description></item><item><title>Automating Code Reviews with Amazon CodeGuru</title><link>https://romankurnovskii.com/en/tracks/aws-certified-developer-associate/codeguru/automating-code-reviews-amazon-codeguru/</link><pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate><guid>https://romankurnovskii.com/en/tracks/aws-certified-developer-associate/codeguru/automating-code-reviews-amazon-codeguru/</guid><description>&lt;h2 id="lab">Lab&lt;/h2>
 &lt;ul>
